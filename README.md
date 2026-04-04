@@ -1,16 +1,16 @@
-## Hi there 👋
+#Olá, eu sou o Guilherme! 👋
 
-<!--
-**guilherme-ed/guilherme-ed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sou um desenvolvedor de software focado em criar soluções funcionais e visualmente atraentes. Unindo a lógica do Python com a criatividade do Web Design, busco transformar ideias em experiências digitais completas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+No que eu trabalho:
+
+🐍 Back-end: Desenvolvimento e automação com Python.
+
+🎨 Design & Front-end: Interfaces modernas com HTML5, CSS3 e JavaScript.
+
+🚀 Foco: Código limpo, interfaces intuitivas e inovação constante.
+
+Estou sempre aberto a colaborações e novos desafios técnicos!
+
+![Image](https://github.com/user-attachments/assets/a15c7f8e-bc66-4d54-a0f5-ebad4a7adfad)
