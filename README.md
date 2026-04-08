@@ -1,4 +1,4 @@
-# Olá, eu sou o Guilherme! 👋
+# Guilherme! 👋
 
 Sou um desenvolvedor de software focado em criar soluções funcionais e visualmente atraentes. Unindo a lógica do Python com a criatividade do Web Design, busco transformar ideias em experiências digitais completas.
 
