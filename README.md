@@ -10,6 +10,7 @@ Sou um desenvolvedor de software focado em criar soluções funcionais e visualm
 ## 📁 Meus Projetos
 
 1. [Login](https://guilherme-ed.github.io/Projeto-Login/)
+2. [Editor](https://guilherme-ed.github.io/Editor_Imagens/)
 
 ---
 # Sobre mim
