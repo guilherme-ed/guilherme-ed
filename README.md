@@ -15,8 +15,6 @@ Sou um desenvolvedor de software focado em criar soluções funcionais e visualm
       </td>
     </tr>
   </table>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilherme-ed&theme=radical&fire=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
 </div>
 
 ---
