@@ -2,11 +2,25 @@
 
 Sou um desenvolvedor de software focado em criar soluções funcionais e visualmente atraentes. Unindo a lógica do Python com a criatividade do Web Design, busco transformar ideias em experiências digitais completas.
 
+---
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a15c7f8e-bc66-4d54-a0f5-ebad4a7adfad" width="900px" />
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-ed&show_icons=true&theme=radical" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-ed&layout=compact&theme=radical" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilherme-ed&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
+
 ## 📁 Meus Projetos
 
 1. [Login](https://guilherme-ed.github.io/Projeto-Login/)
