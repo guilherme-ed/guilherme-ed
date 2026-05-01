@@ -5,16 +5,11 @@ Sou um desenvolvedor de software focado em criar soluções funcionais e visualm
 ---
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-ed&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-ed&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff" />
-      </td>
-    </tr>
-  </table>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-ed&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff" />
+  
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilherme-ed&theme=radical&fire=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
 </div>
 
 ---
