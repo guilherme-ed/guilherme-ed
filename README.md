@@ -16,6 +16,7 @@ Sou um desenvolvedor de software focado em criar soluções funcionais e visualm
 ## 📁 Meus Projetos
 
 1. [🔐 Login Page](https://guilherme-ed.github.io/Login/)
+2. [🧮 IMC](https://guilherme-ed.github.io/calculadora-imc/)
 
 ---
 # Sobre mim
