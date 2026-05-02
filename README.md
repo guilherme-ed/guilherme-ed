@@ -5,10 +5,10 @@ Sou um desenvolvedor de software focado em criar soluções funcionais e visualm
 ---
 
 <div align="center">
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-ed&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff" />
   
-  <br><br>
-
+  <br>
 </div>
 
 ---
