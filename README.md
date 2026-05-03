@@ -4,19 +4,11 @@ Sou um desenvolvedor de software focado em criar soluções funcionais e visualm
 
 ---
 
-<div align="center">
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-ed&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff" />
-  
-  <br>
-</div>
-
----
-
 ## 📁 Meus Projetos
 
 1. [🔐 Login Page](https://guilherme-ed.github.io/Login/)
 2. [🧮 IMC](https://guilherme-ed.github.io/calculadora-imc/)
+3. [🪩 Partículas](https://guilherme-ed.github.io/Particula/)
 
 ---
 # Sobre mim
