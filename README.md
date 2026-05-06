@@ -1,25 +1,9 @@
-# Guilherme! 👋
+## Olá, eu sou o Guilherme! 👋
 
-Sou um desenvolvedor de software focado em criar soluções funcionais e visualmente atraentes. Unindo a lógica do Python com a criatividade do Web Design, busco transformar ideias em experiências digitais completas.
-
+Desenvolvedor de software focado em criar soluções funcionais e visualmente atraentes. Unindo a lógica do **Python** com a criatividade do **Web Design**, busco transformar ideias em experiências digitais completas.
 ---
 
-## 📁 Meus Projetos
-
-1. [🔐 Login Page](https://guilherme-ed.github.io/Login/)
-2. [🧮 IMC](https://guilherme-ed.github.io/calculadora-imc/)
-3. [🪩 Partículas](https://guilherme-ed.github.io/Particula/)
-
----
-# Sobre mim
-
-🌱 Atualmente aprimorando minhas competências em Desenvolvimento Full-Stack.
-
-👨‍💻 Escrevendo código, resolvendo problemas e evoluindo constantemente 🚀
-
----
-
-# 🚀 Tecnologias
+## 🚀 Tecnologias
 
 <div align="center">
   <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;
@@ -30,10 +14,34 @@ Sou um desenvolvedor de software focado em criar soluções funcionais e visualm
 
 ---
 
+## 📁 Meus Projetos
+
+| Projeto | Descrição | Link |
+|---|---|---|
+| 🔐 Login Page | Página de login responsiva com glassmorphism | [Ver projeto](https://guilherme-ed.github.io/Login/) |
+| 🧮 Calculadora IMC | Calculadora de IMC interativa com tema dark | [Ver projeto](https://guilherme-ed.github.io/calculadora-imc/) |
+| 🪩 Partículas | Animação de partículas interativas com Canvas API | [Ver projeto](https://guilherme-ed.github.io/Particula/) |
+
+---
+
+## 👨‍💻 Sobre mim
+
+🌱 Atualmente aprimorando minhas competências em **Desenvolvimento Full-Stack**  
+👨‍💻 Escrevendo código, resolvendo problemas e evoluindo constantemente  
+🤝 Aberto a colaborações e projetos inovadores  
+🚀 Sempre buscando aprender novas tecnologias  
+
+---
+
 ## 💡 Filosofia
 
-"Código vai além de resolver problemas.  
-É sobre construir soluções inteligentes, escaláveis e com impacto real."
+> "Código vai além de resolver problemas.  
+> É sobre construir soluções inteligentes, escaláveis e com impacto real."
 
-⭐ Curtiu meu trabalho? Deixe uma estrela nos repositórios  
-🤝 Aberto a colaborações e projetos inovadores
+---
+
+<div align="center">
+
+⭐ Curtiu meu trabalho? Deixe uma estrela nos repositórios!
+
+</div>
