@@ -1,6 +1,6 @@
 ## Olá, eu sou o Guilherme! 👋
 
-Desenvolvedor de software focado em criar soluções funcionais e visualmente atraentes. Unindo a lógica do **Python** com a criatividade do **Web Design**, busco transformar ideias em experiências digitais completas.
+Desenvolvedor full-stack em construção — código limpo no back, design cuidado no front. Transformo ideias em experiências digitais que funcionam de verdade.
 ---
 
 ## 🚀 Tecnologias
