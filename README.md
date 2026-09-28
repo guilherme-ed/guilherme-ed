@@ -18,9 +18,7 @@ Desenvolvedor full-stack em construção — código limpo no back, design cuida
 
 | Projeto | Descrição | Link |
 |---|---|---|
-| 🔐 Login Page | Página de login responsiva com glassmorphism | [Ver projeto](https://guilherme-ed.github.io/Login/) |
-| 🧮 Calculadora IMC | Calculadora de IMC interativa com tema dark | [Ver projeto](https://guilherme-ed.github.io/calculadora-imc/) |
-| 🪩 Partículas | Animação de partículas interativas com Canvas API | [Ver projeto](https://guilherme-ed.github.io/Particula/) |
+| 🔐 Login Page | Página de login responsiva com glassmorphism | [Ver projeto](https://guilherme-ed.github.io/Login/) 
 
 ---
 
