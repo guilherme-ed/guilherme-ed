@@ -14,14 +14,6 @@ Desenvolvedor full-stack em construção — código limpo no back, design cuida
 
 ---
 
-## 📁 Meus Projetos
-
-| Projeto | Descrição | Link |
-|---|---|---|
-| 🔐 Login Page | Página de login responsiva com glassmorphism | [Ver projeto](https://guilherme-ed.github.io/Login/) 
-
----
-
 ## 👨‍💻 Sobre mim
 
 🌱 Atualmente aprimorando minhas competências em **Desenvolvimento Full-Stack**  
