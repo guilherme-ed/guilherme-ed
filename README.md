@@ -10,7 +10,6 @@ Desenvolvedor full-stack em construção — código limpo no back, design cuida
   <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
   <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;
   <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;
-  <img alt="Algoritmo" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mermaid/mermaid-original.svg">
 </div>
 
 ---
